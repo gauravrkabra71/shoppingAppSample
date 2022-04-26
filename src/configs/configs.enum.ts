@@ -1,0 +1,6 @@
+export enum CONFIGS {
+  SERVER_PORT = 'SERVER_PORT',
+  DB_HOST = 'DB_HOST',
+  DB_PORT = 'DB_PORT',
+  DB_NAME = 'DB_NAME',
+}
